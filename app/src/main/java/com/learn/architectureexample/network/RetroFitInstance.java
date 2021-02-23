@@ -5,7 +5,7 @@ import retrofit2.converter.gson.GsonConverterFactory;
 
 public class RetroFitInstance {
 
-    public static String BASE_URL = "https://demo6891367.mockable.io/";
+    public static String BASE_URL = "https://avinashcoder.github.io/sampleresponse/";
 
     public static Retrofit retrofit;
 

@@ -9,7 +9,7 @@ import retrofit2.http.GET;
 
 public interface APIService {
 
-    @GET("get-notes")
+    @GET("samplejsonarray.html")
     Call<List<Note>> getNotes();
 
 }
