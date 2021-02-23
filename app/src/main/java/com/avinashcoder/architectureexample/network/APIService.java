@@ -1,6 +1,6 @@
-package com.learn.architectureexample.network;
+package com.avinashcoder.architectureexample.network;
 
-import com.learn.architectureexample.model.Note;
+import com.avinashcoder.architectureexample.model.Note;
 
 import java.util.List;
 

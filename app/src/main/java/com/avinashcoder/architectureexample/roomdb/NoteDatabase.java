@@ -1,4 +1,4 @@
-package com.learn.architectureexample.roomdb;
+package com.avinashcoder.architectureexample.roomdb;
 
 import android.content.Context;
 import android.os.AsyncTask;
@@ -9,8 +9,8 @@ import androidx.room.Room;
 import androidx.room.RoomDatabase;
 import androidx.sqlite.db.SupportSQLiteDatabase;
 
-import com.learn.architectureexample.dao.NoteDao;
-import com.learn.architectureexample.model.Note;
+import com.avinashcoder.architectureexample.dao.NoteDao;
+import com.avinashcoder.architectureexample.model.Note;
 
 @Database(entities = {Note.class}, version = 2)
 public abstract class NoteDatabase extends RoomDatabase {

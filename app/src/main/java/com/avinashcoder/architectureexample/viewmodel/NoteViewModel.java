@@ -1,4 +1,4 @@
-package com.learn.architectureexample.viewmodel;
+package com.avinashcoder.architectureexample.viewmodel;
 
 import android.app.Application;
 
@@ -6,8 +6,8 @@ import androidx.annotation.NonNull;
 import androidx.lifecycle.AndroidViewModel;
 import androidx.lifecycle.LiveData;
 
-import com.learn.architectureexample.model.Note;
-import com.learn.architectureexample.repository.NoteRepository;
+import com.avinashcoder.architectureexample.model.Note;
+import com.avinashcoder.architectureexample.repository.NoteRepository;
 
 import java.util.List;
 

@@ -1,4 +1,4 @@
-package com.learn.architectureexample;
+package com.avinashcoder.architectureexample;
 
 import android.content.Context;
 

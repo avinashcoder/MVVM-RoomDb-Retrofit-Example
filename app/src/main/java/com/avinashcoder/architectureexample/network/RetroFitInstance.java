@@ -1,4 +1,4 @@
-package com.learn.architectureexample.network;
+package com.avinashcoder.architectureexample.network;
 
 import retrofit2.Retrofit;
 import retrofit2.converter.gson.GsonConverterFactory;

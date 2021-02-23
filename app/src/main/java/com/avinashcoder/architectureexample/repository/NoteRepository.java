@@ -1,15 +1,15 @@
-package com.learn.architectureexample.repository;
+package com.avinashcoder.architectureexample.repository;
 
 import android.app.Application;
 import android.os.AsyncTask;
 
 import androidx.lifecycle.LiveData;
 
-import com.learn.architectureexample.dao.NoteDao;
-import com.learn.architectureexample.model.Note;
-import com.learn.architectureexample.network.APIService;
-import com.learn.architectureexample.network.RetroFitInstance;
-import com.learn.architectureexample.roomdb.NoteDatabase;
+import com.avinashcoder.architectureexample.dao.NoteDao;
+import com.avinashcoder.architectureexample.model.Note;
+import com.avinashcoder.architectureexample.network.APIService;
+import com.avinashcoder.architectureexample.network.RetroFitInstance;
+import com.avinashcoder.architectureexample.roomdb.NoteDatabase;
 
 import java.util.List;
 

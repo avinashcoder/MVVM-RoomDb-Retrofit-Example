@@ -1,4 +1,4 @@
-package com.learn.architectureexample.dao;
+package com.avinashcoder.architectureexample.dao;
 
 import androidx.lifecycle.LiveData;
 import androidx.room.Dao;
@@ -8,7 +8,7 @@ import androidx.room.OnConflictStrategy;
 import androidx.room.Query;
 import androidx.room.Update;
 
-import com.learn.architectureexample.model.Note;
+import com.avinashcoder.architectureexample.model.Note;
 
 import java.util.List;
 

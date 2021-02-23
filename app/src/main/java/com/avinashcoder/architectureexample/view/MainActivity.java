@@ -1,4 +1,4 @@
-package com.learn.architectureexample.view;
+package com.avinashcoder.architectureexample.view;
 
 import android.os.Bundle;
 
@@ -8,9 +8,9 @@ import androidx.lifecycle.ViewModelProvider;
 import androidx.recyclerview.widget.LinearLayoutManager;
 import androidx.recyclerview.widget.RecyclerView;
 
-import com.learn.architectureexample.R;
-import com.learn.architectureexample.model.Note;
-import com.learn.architectureexample.viewmodel.NoteViewModel;
+import com.avinashcoder.architectureexample.R;
+import com.avinashcoder.architectureexample.model.Note;
+import com.avinashcoder.architectureexample.viewmodel.NoteViewModel;
 
 import java.util.List;
 

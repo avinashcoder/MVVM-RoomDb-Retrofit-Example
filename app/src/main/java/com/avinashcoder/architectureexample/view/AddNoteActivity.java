@@ -1,10 +1,10 @@
-package com.learn.architectureexample.view;
+package com.avinashcoder.architectureexample.view;
 
 import androidx.appcompat.app.AppCompatActivity;
 
 import android.os.Bundle;
 
-import com.learn.architectureexample.R;
+import com.avinashcoder.architectureexample.R;
 
 public class AddNoteActivity extends AppCompatActivity {
 
